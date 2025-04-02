@@ -10,4 +10,3 @@ fourth. remote repository(storage of team project )
 
 1==>3 commit, 3==>4 push.
  ------------------------
- 
